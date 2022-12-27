@@ -1,6 +1,6 @@
 name: minerva_controller
 description: Required to use controllers to configure the Minerva server.
-version: 0.9.0
+version: 1.0.0
 homepage: https://github.com/GlebBatykov/minerva_controller
 
 environment:
